@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TheFactorFactor</string>
+    <string name="factor_quiz">Factor Quiz</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="enter_the_number">Enter the Number</string>
+    <string name="option">Option</string>
+    <string name="a">A</string>
+</resources>
